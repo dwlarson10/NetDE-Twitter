@@ -1,0 +1,17 @@
+---
+title: "readMe"
+author: "DanLarson"
+date: "May 15, 2016"
+output: html_document
+---
+
+I embarked on this project to better understanding scraping data from Twitter. The in this repository do the following
+
+1) Pull data from Twitter related to #netDE
+2) Wrangle the data into a usable data.frame
+3) Plot into a few meaningful charts
+4) Create a wordcload
+5) Do a sentiment analysis to determine the overall sentiment of the tweets. 
+
+
+
